@@ -12,3 +12,4 @@ requests
 praw
 epicstore_api
 aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=5.29.6 # not directly required, pinned by Snyk to avoid a vulnerability
